@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lthergo/lthergo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my GitHub Page simply deployed by [Jekyll](https://jekyllrb.com/) , and it‘s just a single page for listing all of my websites here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can click any of these links below to browse my website
+
+[https://ioii.me](https://ioii.me)	[https://mylax.cn](https://mylax.cn)	[https://lthero.com](https://lthero.com)
 
 ### Markdown
 
